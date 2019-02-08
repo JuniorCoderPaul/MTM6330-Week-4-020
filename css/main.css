@@ -1,2 +1,5 @@
 body {
   background-color: #282c34; }
+
+nav ul li {
+  display: flex; }
